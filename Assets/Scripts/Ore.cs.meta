@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c874a1eba3d102844be1647ab5a159ff
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - M_Iron: {fileID: 2100000, guid: 7c864a2520ff09241858353e28de06ac, type: 2}
+  - M_Gold: {fileID: 2100000, guid: a1cc5e6317885fd4fbe3ccf8ae769360, type: 2}
+  - M_Diamond: {fileID: 2100000, guid: 960291b00b6a9b94987898b25d2fec19, type: 2}
+  - M_ROCK: {fileID: 2100000, guid: c7352cec11a02154390f4247bdfaa141, type: 2}
+  - M_COPPER: {fileID: 2100000, guid: 0060163c1fc5af146b09a97dbe422977, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
